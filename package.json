@@ -1,0 +1,22 @@
+{
+  "name": "algo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linearsearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamVishnuSivaprasadan/algo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamVishnuSivaprasadan/algo/issues"
+  },
+  "homepage": "https://github.com/IamVishnuSivaprasadan/algo#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
